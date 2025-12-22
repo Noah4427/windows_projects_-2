@@ -1,0 +1,13 @@
+# Git → GitHub Workflow (Complete Reference)
+
+This file documents the standard procedure for pushing a local project
+to GitHub using Git.
+
+---
+
+## 0. One-time setup (per repository)
+
+```bash
+git init
+git remote add origin https://github.com/USERNAME/REPO.git
+git branch -M main

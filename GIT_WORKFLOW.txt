@@ -11,3 +11,13 @@ to GitHub using Git.
 git init
 git remote add origin https://github.com/USERNAME/REPO.git
 git branch -M main
+
+Procedure to update and sync with Github 
+
+# cd D:\my_new_project
+# git status
+# git add (some file with its file name)
+# git commit -m "Update python script"
+# git push
+
+
